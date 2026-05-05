@@ -1,0 +1,22 @@
+{
+  "name": "BronBot public demo routing flow",
+  "mode": "demo",
+  "nodes": [
+    {
+      "id": "input",
+      "type": "message_input",
+      "description": "Receives a short user command."
+    },
+    {
+      "id": "router",
+      "type": "mock_intent_router",
+      "description": "Classifies the request using safe demo rules."
+    },
+    {
+      "id": "formatter",
+      "type": "response_formatter",
+      "description": "Returns a concise action-oriented summary."
+    }
+  ]
+}
+

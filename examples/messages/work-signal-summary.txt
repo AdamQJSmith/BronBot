@@ -1,0 +1,19 @@
+Work signal summary
+
+What happened:
+One high-priority thread needs a response before the next meeting.
+
+Why it matters:
+The decision is blocking follow-up work and will become harder to resolve after today.
+
+Next move:
+Send the short confirmation reply before end of day.
+
+Source:
+Demo inbox item
+
+Next actions
+- draft 1 - draft the selected reply
+- details - show more context
+- refresh - rerun this pull
+
